@@ -1,7 +1,0 @@
-pytelebot
-telebot
-random
-json
-os
-datetime
-threading
